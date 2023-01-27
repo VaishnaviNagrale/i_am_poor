@@ -5,7 +5,7 @@ void main() {
     debugShowCheckedModeBanner: false,
     home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.deepPurple,
+          backgroundColor: Colors.brown,
           title: const Center(
             child: Text('😭I am poor😭'),
           ),
